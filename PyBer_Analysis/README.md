@@ -10,8 +10,8 @@ Results:
 We can see after the analysis that the Suburban and Rural get more fare per ride and per driver.
 We can also see that the Urban section of is the highest total of fares.
 
+![Screen Shot 2022-04-10 at 3 04 11 PM](https://user-images.githubusercontent.com/90650209/162635522-9fa5abbc-69a9-46cc-a138-b076d5f40dc8.png)
 
-![Screen Shot 2022-04-10 at 2 51 46 PM](https://user-images.githubusercontent.com/90650209/162635052-b4567edf-b0a0-4e52-b1cd-0e30f7c00676.png)
 
 We can see the total fares are about the same in the 3 month period.
 
